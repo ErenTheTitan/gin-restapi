@@ -1,4 +1,4 @@
-module first-api
+module github.com/ErenTheTitan/gin-restapi
 
 go 1.17
 

@@ -1,7 +1,7 @@
 package Routes
 
 import (
-	"first-api/Controllers"
+	"github.com/ErenTheTitan/gin-restapi/Controllers"
 
 	"github.com/gin-gonic/gin"
 )

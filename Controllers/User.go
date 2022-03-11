@@ -1,9 +1,10 @@
 package Controllers
 
 import (
-	"first-api/Models"
 	"fmt"
 	"net/http"
+
+	"github.com/ErenTheTitan/gin-restapi/Models"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,10 +1,11 @@
 package main
 
 import (
-	"first-api/Config"
-	"first-api/Models"
-	"first-api/Routes"
 	"fmt"
+
+	"github.com/ErenTheTitan/gin-restapi/Config"
+	"github.com/ErenTheTitan/gin-restapi/Models"
+	"github.com/ErenTheTitan/gin-restapi/Routes"
 
 	"github.com/jinzhu/gorm"
 )

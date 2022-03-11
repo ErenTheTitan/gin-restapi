@@ -1,8 +1,9 @@
 package Models
 
 import (
-	"first-api/Config"
 	"fmt"
+
+	"github.com/ErenTheTitan/gin-restapi/Config"
 
 	_ "github.com/go-sql-driver/mysql"
 )
